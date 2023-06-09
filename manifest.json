@@ -10,17 +10,17 @@
         {
             "src": "/windows11/LargeTile.scale-100.png",
             "type":"image/png",
-            "size": "100x100"
+            "sizes": "100x100"
         },
         {
             "src": "/android/android-launchericon-48-48.png",
             "type":"image/png",
-            "size": "48x48"
+            "sizes": "48x48"
         },
         {
             "src": "/android/android-launchericon-72-72.png",
             "type":"image/png",
-            "size": "72x72"
+            "sizes": "72x72"
         },
         {
             "src": "/android/android-launchericon-96-96.png",
