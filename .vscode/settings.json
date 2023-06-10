@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.https": {
+    "enable": true, //set it true to enable the feature.
+    "cert": "C:\\MyData\\oeid.ir\\cert.pem", //full path of the certificate
+    "key": "C:\\MyData\\oeid.ir\\privkey.pem", //full path of the private key
+    "passphrase": ""
+    }
+}
